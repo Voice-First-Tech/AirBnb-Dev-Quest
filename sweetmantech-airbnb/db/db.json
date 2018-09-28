@@ -1,0 +1,126 @@
+[
+	{
+		"userId": "ABwppHE9i0O0ysjd40Re3Q5ZqH6_icm-pbI8e6Q0kg0XL7Q1aphiVYWnzkqOc4WrgCf5H2mebLtoBU7jxOE",
+		"userData": {
+			"data": {},
+			"metaData": {
+				"createdAt": "2018-09-28T20:18:55.579Z",
+				"lastUsedAt": "2018-09-28T20:30:07.347Z",
+				"sessionsCount": 4
+			},
+			"context": {
+				"prev": [
+					{
+						"request": {
+							"intent": "LAUNCH",
+							"timestamp": "2018-09-28T20:30:07.347Z"
+						},
+						"response": {
+							"speech": "Welcome to the comfy cabin! We want your experience to be nothing but royalty. I can change the temperature, tell you the wifi password, help you learn the wifi password, or help you check out. How can I help you?",
+							"state": "MainServiceState"
+						}
+					}
+				]
+			}
+		}
+	},
+	{
+		"userId": "amzn1.account.AM3B00000000000000000000000",
+		"userData": {
+			"data": {},
+			"metaData": {
+				"createdAt": "2018-09-28T20:18:55.587Z",
+				"lastUsedAt": "2018-09-28T20:30:07.357Z",
+				"sessionsCount": 9
+			},
+			"context": {
+				"prev": [
+					{
+						"request": {
+							"intent": "LAUNCH",
+							"timestamp": "2015-05-13T12:34:56Z"
+						},
+						"response": {
+							"speech": "Welcome to the comfy cabin! We want your experience to be nothing but royalty. I can change the temperature, tell you the wifi password, help you learn the wifi password, or help you check out. How can I help you?",
+							"reprompt": "How can I help you?",
+							"state": "MainServiceState"
+						}
+					}
+				]
+			}
+		}
+	},
+	{
+		"userId": "amzn1.ask.account.AG7MT7YTIOV3UKGSOTD6LYY7P3DUB3QM5WOH7II4BWYYWYIA4SWG7YOL7UYGUJYJIENGIVNBLFGHFP2DKN6DU2B4I7RXVRT7SYOVUZHQL2PK2PSDTLG5KAQBIBTXKV2V745KY3KQW5IGEXXBLXTTVZUZ6Z4A2ECGOREZ2AGCXHDVEC5ZW2N2WVD5HRDJRK5T22PMDPA7XF2DDCA",
+		"userData": {
+			"data": {},
+			"metaData": {
+				"createdAt": "2018-09-28T20:29:39.768Z",
+				"lastUsedAt": "2018-09-28T20:29:39.769Z"
+			},
+			"context": {
+				"prev": [
+					{
+						"request": {
+							"intent": "END",
+							"timestamp": "2018-09-28T20:29:39Z",
+							"state": "FirstNameState"
+						},
+						"response": {}
+					}
+				]
+			}
+		}
+	},
+	{
+		"userId": "amzn1.ask.account.AEWIJAANA6QFCNJJIDDZXXFLR3BREGEUYDWJPRFUHKA7OGTTXRXH2RCLJCKUR4NJXX4WEZ3FJMVCCO4TFG6ZA7DP4ZJJT3SGXKBPY3MHVMXE52QJZVTFFXDPT2IPZQDGS2HTI453QFRG5EDDPK7OOFZH62SKSSKYIDNCQ5TM4UEXCG757CS2C22B4WTWZTV4SQ5CEICAIWCDBKY",
+		"userData": {
+			"data": {},
+			"metaData": {
+				"createdAt": "2018-09-28T20:29:39.792Z",
+				"lastUsedAt": "2018-09-28T20:30:53.973Z",
+				"sessionsCount": 4
+			},
+			"context": {
+				"prev": [
+					{
+						"request": {
+							"intent": "LAUNCH",
+							"timestamp": "2018-09-28T20:30:53Z"
+						},
+						"response": {
+							"speech": "Welcome to the comfy cabin! We want your experience to be nothing but royalty. I can change the temperature, tell you the wifi password, help you learn the wifi password, or help you check out. How can I help you?",
+							"reprompt": "How can I help you?",
+							"state": "MainServiceState"
+						}
+					}
+				]
+			}
+		}
+	},
+	{
+		"userId": "ABwppHGPoRmLaasJOui-X6PH9xVQtanVWfWk_UG3hg9YSIFnarOXurG0x0UCZghrCjRiflZ_ZyCK2EnRvf-ZVQ",
+		"userData": {
+			"data": {},
+			"metaData": {
+				"createdAt": "2018-09-28T20:35:35.626Z",
+				"lastUsedAt": "2018-09-28T20:35:35.627Z",
+				"sessionsCount": 1
+			},
+			"context": {
+				"prev": [
+					{
+						"request": {
+							"intent": "LAUNCH",
+							"timestamp": "2018-09-28T20:35:35.628Z"
+						},
+						"response": {
+							"speech": "Welcome to the comfy cabin! We want your experience to be nothing but royalty. I can change the temperature, tell you the wifi password, help you learn the wifi password, or help you check out. How can I help you?",
+							"state": "MainServiceState"
+						}
+					}
+				]
+			}
+		}
+	}
+]
