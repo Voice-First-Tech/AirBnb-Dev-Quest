@@ -1,0 +1,53 @@
+[
+	{
+		"userId": "ABwppHE9i0O0ysjd40Re3Q5ZqH6_icm-pbI8e6Q0kg0XL7Q1aphiVYWnzkqOc4WrgCf5H2mebLtoBU7jxOE",
+		"userData": {
+			"data": {},
+			"metaData": {
+				"createdAt": "2018-09-29T00:20:41.969Z",
+				"lastUsedAt": "2018-09-29T00:50:45.857Z",
+				"sessionsCount": 11
+			},
+			"context": {
+				"prev": [
+					{
+						"request": {
+							"intent": "LAUNCH",
+							"timestamp": "2018-09-29T00:50:45.860Z"
+						},
+						"response": {
+							"speech": "Dear Guest, welcome to Airbnb.",
+							"state": "MainServiceState"
+						}
+					}
+				]
+			}
+		}
+	},
+	{
+		"userId": "amzn1.account.AM3B00000000000000000000000",
+		"userData": {
+			"data": {},
+			"metaData": {
+				"createdAt": "2018-09-29T00:21:44.803Z",
+				"lastUsedAt": "2018-09-29T00:50:45.913Z",
+				"sessionsCount": 5
+			},
+			"context": {
+				"prev": [
+					{
+						"request": {
+							"intent": "LAUNCH",
+							"timestamp": "2015-05-13T12:34:56Z"
+						},
+						"response": {
+							"speech": "Dear Guest, welcome to Airbnb.",
+							"reprompt": "How can I help you with?",
+							"state": "MainServiceState"
+						}
+					}
+				]
+			}
+		}
+	}
+]
