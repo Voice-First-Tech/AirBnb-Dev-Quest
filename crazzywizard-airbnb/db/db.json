@@ -1,0 +1,104 @@
+[
+	{
+		"userId": "ABwppHE9i0O0ysjd40Re3Q5ZqH6_icm-pbI8e6Q0kg0XL7Q1aphiVYWnzkqOc4WrgCf5H2mebLtoBU7jxOE",
+		"userData": {
+			"data": {},
+			"metaData": {
+				"createdAt": "2018-09-28T23:32:56.670Z",
+				"lastUsedAt": "2018-09-29T00:06:01.535Z",
+				"sessionsCount": 12
+			},
+			"context": {
+				"prev": [
+					{
+						"request": {
+							"intent": "LAUNCH",
+							"timestamp": "2018-09-29T00:06:01.536Z"
+						},
+						"response": {
+							"speech": "Welcome to your wonderful cabin",
+							"state": "MainServiceState"
+						}
+					}
+				]
+			}
+		}
+	},
+	{
+		"userId": "amzn1.account.AM3B00000000000000000000000",
+		"userData": {
+			"data": {},
+			"metaData": {
+				"createdAt": "2018-09-28T23:32:56.782Z",
+				"lastUsedAt": "2018-09-29T00:06:01.565Z",
+				"sessionsCount": 12
+			},
+			"context": {
+				"prev": [
+					{
+						"request": {
+							"intent": "LAUNCH",
+							"timestamp": "2015-05-13T12:34:56Z"
+						},
+						"response": {
+							"speech": "Welcome to your wonderful cabin",
+							"reprompt": "I am here to make your stay more comfortable!",
+							"state": "MainServiceState"
+						}
+					}
+				]
+			}
+		}
+	},
+	{
+		"userId": "amzn1.ask.account.AE5HFS5UQLBISDOEAIEPCHU5ZR7LQJG7PE7UE2Q5KJGJ7QPNQU3O2U6SCIXHFAKEM2TPQDSI2DP6UWDH6WHFUVII2XFN3PFROROK5GLCP4UYWNLZ2PIWIKXFVOFKP7PT7IQYZOG7ZY7NDBYJE6GN7QN35C3HEA65EVEHANNBKY4LIZL65M5RZN5PZL3HES7MBCXMTVRIXP6PMRQ",
+		"userData": {
+			"data": {},
+			"metaData": {
+				"createdAt": "2018-09-29T00:14:19.227Z",
+				"lastUsedAt": "2018-09-29T00:14:19.228Z",
+				"sessionsCount": 1
+			},
+			"context": {
+				"prev": [
+					{
+						"request": {
+							"intent": "LAUNCH",
+							"timestamp": "2018-09-29T00:14:14Z"
+						},
+						"response": {
+							"speech": "Welcome to your wonderful cabin",
+							"reprompt": "I am here to make your stay more comfortable!",
+							"state": "MainServiceState"
+						}
+					}
+				]
+			}
+		}
+	},
+	{
+		"userId": "ABwppHHXpCryUaoR0cDD5Ehe1DKfzcQDrdNZVVdjo-9Xw9EYvePU858dLqbWNLKAq6sNnjbJCkNVYk4eNNER",
+		"userData": {
+			"data": {},
+			"metaData": {
+				"createdAt": "2018-09-29T00:19:12.855Z",
+				"lastUsedAt": "2018-09-29T00:19:12.856Z",
+				"sessionsCount": 1
+			},
+			"context": {
+				"prev": [
+					{
+						"request": {
+							"intent": "LAUNCH",
+							"timestamp": "2018-09-29T00:19:12.856Z"
+						},
+						"response": {
+							"speech": "Welcome to your wonderful cabin",
+							"state": "MainServiceState"
+						}
+					}
+				]
+			}
+		}
+	}
+]
