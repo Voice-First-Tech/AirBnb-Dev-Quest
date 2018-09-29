@@ -1,0 +1,130 @@
+[
+	{
+		"userId": "ABwppHE9i0O0ysjd40Re3Q5ZqH6_icm-pbI8e6Q0kg0XL7Q1aphiVYWnzkqOc4WrgCf5H2mebLtoBU7jxOE",
+		"userData": {
+			"data": {},
+			"metaData": {
+				"createdAt": "2018-09-28T23:16:28.956Z",
+				"lastUsedAt": "2018-09-29T00:13:22.844Z",
+				"sessionsCount": 15
+			},
+			"context": {
+				"prev": [
+					{
+						"request": {
+							"intent": "LAUNCH",
+							"timestamp": "2018-09-29T00:13:22.844Z"
+						},
+						"response": {
+							"speech": "Welcome to the thing",
+							"state": "MainServiceState"
+						}
+					}
+				]
+			}
+		}
+	},
+	{
+		"userId": "amzn1.account.AM3B00000000000000000000000",
+		"userData": {
+			"data": {},
+			"metaData": {
+				"createdAt": "2018-09-28T23:16:29.016Z",
+				"lastUsedAt": "2018-09-29T00:13:22.876Z",
+				"sessionsCount": 16
+			},
+			"context": {
+				"prev": [
+					{
+						"request": {
+							"intent": "LAUNCH",
+							"timestamp": "2015-05-13T12:34:56Z"
+						},
+						"response": {
+							"speech": "Welcome to the thing",
+							"reprompt": "How can I help you?",
+							"state": "MainServiceState"
+						}
+					}
+				]
+			}
+		}
+	},
+	{
+		"userId": "amzn1.ask.account.AHY3TODY6UYLNDRPN6J7ILZIDW5636QAUQJ455LXRDTZLYODWITEFXI27IKHDOFBHVEYDSLSVXWWHDSDK3ZZXX7VFMVUYHFMLRFOW2GYI6X6F4WZN5BJCBVYFY7XW3JNA73337Z5MOYC6M7DFRMT4XE6Z3MLOHTCHQYTPSD5EBZNSR276QBFPTRCJYD52HPNCYOI57B3FMC35YQ",
+		"userData": {
+			"data": {},
+			"metaData": {
+				"createdAt": "2018-09-29T00:01:17.183Z",
+				"lastUsedAt": "2018-09-29T00:16:07.342Z",
+				"sessionsCount": 3
+			},
+			"context": {
+				"prev": [
+					{
+						"request": {
+							"intent": "LAUNCH",
+							"timestamp": "2018-09-29T00:16:06Z"
+						},
+						"response": {
+							"speech": "Welcome to the thing",
+							"reprompt": "How can I help you?",
+							"state": "MainServiceState"
+						}
+					}
+				]
+			}
+		}
+	},
+	{
+		"userId": "jovo-debugger-user",
+		"userData": {
+			"data": {},
+			"metaData": {
+				"createdAt": "2018-09-29T00:05:23.298Z",
+				"lastUsedAt": "2018-09-29T00:05:52.030Z",
+				"sessionsCount": 2
+			},
+			"context": {
+				"prev": [
+					{
+						"request": {
+							"intent": "LAUNCH",
+							"timestamp": "2018-09-29T00:05:52.030Z"
+						},
+						"response": {
+							"speech": "Welcome to the thing",
+							"reprompt": "How can I help you?",
+							"state": "MainServiceState"
+						}
+					}
+				]
+			}
+		}
+	},
+	{
+		"userId": "ABwppHEgvKxQkacHqsYnpKyNmNiG8E_Xkvs2Fu9CklghQzuKctRbs9LPkBE3ce7cKCcCM5T--3jdqjedem-vn6-hl5dmOQ",
+		"userData": {
+			"data": {},
+			"metaData": {
+				"createdAt": "2018-09-29T00:26:29.519Z",
+				"lastUsedAt": "2018-09-29T00:26:29.519Z",
+				"sessionsCount": 1
+			},
+			"context": {
+				"prev": [
+					{
+						"request": {
+							"intent": "LAUNCH",
+							"timestamp": "2018-09-29T00:26:29.519Z"
+						},
+						"response": {
+							"speech": "Welcome to the thing",
+							"state": "MainServiceState"
+						}
+					}
+				]
+			}
+		}
+	}
+]
