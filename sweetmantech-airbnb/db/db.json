@@ -5,15 +5,15 @@
 			"data": {},
 			"metaData": {
 				"createdAt": "2018-09-28T20:18:55.579Z",
-				"lastUsedAt": "2018-09-28T20:30:07.347Z",
-				"sessionsCount": 4
+				"lastUsedAt": "2018-09-28T23:23:54.060Z",
+				"sessionsCount": 5
 			},
 			"context": {
 				"prev": [
 					{
 						"request": {
 							"intent": "LAUNCH",
-							"timestamp": "2018-09-28T20:30:07.347Z"
+							"timestamp": "2018-09-28T23:23:54.061Z"
 						},
 						"response": {
 							"speech": "Welcome to the comfy cabin! We want your experience to be nothing but royalty. I can change the temperature, tell you the wifi password, help you learn the wifi password, or help you check out. How can I help you?",
@@ -30,8 +30,8 @@
 			"data": {},
 			"metaData": {
 				"createdAt": "2018-09-28T20:18:55.587Z",
-				"lastUsedAt": "2018-09-28T20:30:07.357Z",
-				"sessionsCount": 9
+				"lastUsedAt": "2018-09-28T23:23:53.132Z",
+				"sessionsCount": 10
 			},
 			"context": {
 				"prev": [
