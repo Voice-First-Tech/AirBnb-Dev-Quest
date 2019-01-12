@@ -1,0 +1,129 @@
+[
+	{
+		"userId": "amzn1.account.AM3B00000000000000000000000",
+		"userData": {
+			"data": {},
+			"metaData": {
+				"createdAt": "2018-09-28T23:16:52.550Z",
+				"lastUsedAt": "2018-09-29T00:08:32.202Z",
+				"sessionsCount": 13
+			},
+			"context": {
+				"prev": [
+					{
+						"request": {
+							"intent": "LAUNCH",
+							"timestamp": "2015-05-13T12:34:56Z"
+						},
+						"response": {
+							"speech": "Welcome to our humble home. We hope you enjoy your stay!",
+							"reprompt": "How can I help you?",
+							"state": "MainServiceState"
+						}
+					}
+				]
+			}
+		}
+	},
+	{
+		"userId": "ABwppHE9i0O0ysjd40Re3Q5ZqH6_icm-pbI8e6Q0kg0XL7Q1aphiVYWnzkqOc4WrgCf5H2mebLtoBU7jxOE",
+		"userData": {
+			"data": {},
+			"metaData": {
+				"createdAt": "2018-09-28T23:26:27.216Z",
+				"lastUsedAt": "2018-09-29T00:08:32.185Z",
+				"sessionsCount": 8
+			},
+			"context": {
+				"prev": [
+					{
+						"request": {
+							"intent": "LAUNCH",
+							"timestamp": "2018-09-29T00:08:32.185Z"
+						},
+						"response": {
+							"speech": "Welcome to our humble home. We hope you enjoy your stay!",
+							"state": "MainServiceState"
+						}
+					}
+				]
+			}
+		}
+	},
+	{
+		"userId": "jovo-debugger-user",
+		"userData": {
+			"data": {},
+			"metaData": {
+				"createdAt": "2018-09-29T00:05:21.624Z",
+				"lastUsedAt": "2018-09-29T00:34:29.599Z",
+				"sessionsCount": 5
+			},
+			"context": {
+				"prev": [
+					{
+						"request": {
+							"intent": "LAUNCH",
+							"timestamp": "2018-09-29T00:34:29.599Z"
+						},
+						"response": {
+							"speech": "Welcome to our humble home. We hope you enjoy your stay!",
+							"state": "MainServiceState"
+						}
+					}
+				]
+			}
+		}
+	},
+	{
+		"userId": "amzn1.ask.account.AEDKRCGO7TUMVH6EQUJUEA34CMFN2MTM5KS34WTABZIFLLMBU6EJV7EN7EGPG3MQ3I6YGGVUZVWUVAP3JCABRHQV3MYVWJHCYCTUVDM7O32LS3ECSSMM3QZLVWTSFZTJ5CQD7YAAZUOVQ3KPM4X6MBOF2Q55AREQMAIE4E2UVE65U7MFQUY2WV2LBTYN7JLBZRNEV2UB2MNUF7I",
+		"userData": {
+			"data": {},
+			"metaData": {
+				"createdAt": "2018-09-29T00:18:37.220Z",
+				"lastUsedAt": "2018-09-29T00:18:37.226Z",
+				"sessionsCount": 1
+			},
+			"context": {
+				"prev": [
+					{
+						"request": {
+							"intent": "LAUNCH",
+							"timestamp": "2018-09-29T00:18:37Z"
+						},
+						"response": {
+							"speech": "Welcome to our humble home. We hope you enjoy your stay!",
+							"reprompt": "How can I help you?",
+							"state": "MainServiceState"
+						}
+					}
+				]
+			}
+		}
+	},
+	{
+		"userId": "ABwppHF4XXaBwarz_XtjlfxunJYJtfeNgRch5VXk3dcbxyNHmXBt6czNiWo3tt35_lhoo_FBdWlpmNToU0pK93-SHFsM5Q",
+		"userData": {
+			"data": {},
+			"metaData": {
+				"createdAt": "2018-09-29T00:27:16.126Z",
+				"lastUsedAt": "2018-09-29T00:27:16.128Z",
+				"sessionsCount": 1
+			},
+			"context": {
+				"prev": [
+					{
+						"request": {
+							"intent": "LAUNCH",
+							"timestamp": "2018-09-29T00:27:16.128Z"
+						},
+						"response": {
+							"speech": "Welcome to our humble home. We hope you enjoy your stay!",
+							"state": "MainServiceState"
+						}
+					}
+				]
+			}
+		}
+	}
+]
